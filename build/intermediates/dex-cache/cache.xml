@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/j33lai/Downloads/Spring 2016/CS488/cs488/MVC/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9a3f37305a6e7e0aaba47a94d75bc2bba1554836">
+        <dex dex="/home/j33lai/Downloads/Spring 2016/CS488/cs488/MVC/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b3425df2128843f4dd9e38ade8a0bd7136cc2f32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/j33lai/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/j33lai/Downloads/Spring 2016/CS488/cs488/MVC/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_73080d2c38996ea5515220296385ede6ee630764/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/j33lai/Downloads/Spring 2016/CS488/cs488/MVC/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/j33lai/Downloads/Spring 2016/CS488/cs488/MVC/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4ca1f8a881423d692b96e0684ade1269b305e35e/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/j33lai/Downloads/Spring 2016/CS488/cs488/MVC/app/build/intermediates/res/merged/debug/layout-port/mainactivity.xml",
+        "source": "/home/j33lai/Downloads/Spring 2016/CS488/cs488/MVC/app/src/main/res/layout-port/mainactivity.xml"
+    },
+    {
+        "merged": "/home/j33lai/Downloads/Spring 2016/CS488/cs488/MVC/app/build/intermediates/res/merged/debug/layout-port/viewc.xml",
+        "source": "/home/j33lai/Downloads/Spring 2016/CS488/cs488/MVC/app/src/main/res/layout-port/viewc.xml"
+    },
+    {
+        "merged": "/home/j33lai/Downloads/Spring 2016/CS488/cs488/MVC/app/build/intermediates/res/merged/debug/layout-port/view1.xml",
+        "source": "/home/j33lai/Downloads/Spring 2016/CS488/cs488/MVC/app/src/main/res/layout-port/view1.xml"
+    }
+]

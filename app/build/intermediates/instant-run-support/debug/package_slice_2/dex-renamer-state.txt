@@ -1,0 +1,4 @@
+#Tue Aug 15 21:55:11 EDT 2017
+base.0=/home/j33lai/Downloads/Spring 2016/CS488/cs488/MVC/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/home/j33lai/Downloads/Spring 2016/CS488/cs488/MVC/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

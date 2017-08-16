@@ -1,0 +1,7 @@
+#Tue Aug 15 21:55:11 EDT 2017
+base.0=/home/j33lai/Downloads/Spring 2016/CS488/cs488/MVC/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b3425df2128843f4dd9e38ade8a0bd7136cc2f32
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/j33lai/Downloads/Spring 2016/CS488/cs488/MVC/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4ca1f8a881423d692b96e0684ade1269b305e35e/classes.dex
+base.1=/home/j33lai/Downloads/Spring 2016/CS488/cs488/MVC/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4ca1f8a881423d692b96e0684ade1269b305e35e
+file.0=/home/j33lai/Downloads/Spring 2016/CS488/cs488/MVC/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b3425df2128843f4dd9e38ade8a0bd7136cc2f32/classes.dex
